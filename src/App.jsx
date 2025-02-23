@@ -6,7 +6,8 @@ import { FooterComponent } from './components/FooterComponent'
 import MainComponent from './components/MainComponent'
 import { NavbarComponent } from './components/NavbarComponent'
 import ProductComponent from './components/ProductComponent'
-import HomeComponent from "./components/HomeCOmponent";
+import HomeComponent from "./components/HomeComponent"; 
+
 import LoginFormComponent from "./components/LoginFormComponent";
 import RegisterComponent from "./components/RegisterComponent";
 import ProductDetail from "./components/ProductDetail";
